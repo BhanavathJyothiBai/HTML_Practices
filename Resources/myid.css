@@ -1,0 +1,23 @@
+#form
+{
+ 
+height: 80vh;
+width:55vw;
+
+background-image:radial-gradient(skyblue 20%,silver);
+box-shadow:10px 10px 10px black;
+border-radius:20px
+}
+label
+{
+color:crimson;
+font-weight:bold;
+font-style:italic;
+}
+#name
+{
+font-size:15px;
+color:crimson;
+font-weight:bold;
+font-style:italic;
+}
